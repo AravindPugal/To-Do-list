@@ -7,7 +7,7 @@
 body{
   background-color : #ffa931;
   font-family: 'Source Code Pro', monospace;
-  overflow: hidden;
+  overflow-x: hidden;
 }
   /* font-family: 'Source Code Pro', monospace;
   font-family: 'Permanent Marker', cursive;
