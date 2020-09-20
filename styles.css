@@ -8,6 +8,7 @@ body{
   background-color : #ffa931;
   font-family: 'Source Code Pro', monospace;
   overflow-x: hidden;
+  overflow-y: scroll;
 }
   /* font-family: 'Source Code Pro', monospace;
   font-family: 'Permanent Marker', cursive;
